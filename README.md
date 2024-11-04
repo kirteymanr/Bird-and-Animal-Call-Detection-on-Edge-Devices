@@ -1,5 +1,5 @@
-# Hardware-Acceleration-and-Optimization-for-Machine-Learning
-# Audio Classification Model: Bird and animal call detection
+# E1 201: Hardware Acceleration and Optimization for Machine Learning
+# Project: Bird and Animal Call Detection​ on Edge Devices
 
 This repository contains an audio classification model that distinguishes between bird, cat, and dog sounds. It includes model files in various formats, as well as a Jupyter Notebook used to build, train, and convert the model.
 
